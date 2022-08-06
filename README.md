@@ -27,8 +27,8 @@ foo@bar:~$ pip install -r pip_requirements
 ### Executing program
 
 * Run the code with the following command
-```python
-python3 pg-pong.py
+```console
+foo@bar:~$ python3 pg-pong.py
 ```
 
 ## Authors
@@ -36,7 +36,7 @@ python3 pg-pong.py
 Contributors names and contact info
 
 ex. Usnik Biswas  
-ex. [@usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
+ex. [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 ## Version History
 
