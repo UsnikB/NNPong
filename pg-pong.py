@@ -4,7 +4,10 @@ import pickle as pickle
 import gym
 import psutil
 import os
+from timeit import default_timer as timer
+from datetime import timedelta
 
+start = timer()
 # hyperparameters
 H = 200 # number of hidden layer neurons
 batch_size = 10 # every how many episodes to do a param update?
@@ -77,7 +80,6 @@ win_percentage = 0.000
 total_rounds = 1
 # edited Code for Win Percentage - END
 
-
 while True:
   if render: env.render()
 
@@ -100,14 +102,10 @@ while True:
   observation, reward, done, info = env.step(action)
   reward_sum += reward
 
-  
-
   drs.append(reward) # record reward (has to be done after we call step() to get reward for previous action)
 
   if done: # an episode finished
     episode_number += 1
-
-
 
     # stack together all inputs, hidden states, action gradients, and rewards for this episode
     epx = np.vstack(xs)
@@ -138,12 +136,11 @@ while True:
     running_reward = reward_sum if running_reward is None else running_reward * 0.99 + reward_sum * 0.01
     # edited Code for Win Percentage
     print('resetting env. episode reward total was %f. running mean: %f. AI Wins: %d, Total Rounds: %d, Win Percentage: %f.' % (reward_sum, running_reward, total_posotive_reward, total_rounds, win_percentage))
-    # edited Code for Win Percentage - END
     if episode_number % 100 == 0: pickle.dump(model, open('save.p', 'wb'))
     reward_sum = 0
     observation = env.reset() # reset env
     prev_x = None
-  # edited Code for Win Percentage
+   # edited Code for Win Percentage
   
   if (reward > 0):
     total_posotive_reward += 1
@@ -157,12 +154,16 @@ while True:
     load1, load5, load15 = psutil.getloadavg()
   
     cpu_usage = (load15/os.cpu_count()) * 100
-      
+    
     print("The CPU usage is : ", cpu_usage)
 
     total_memory, used_memory, free_memory = map(
     int, os.popen('free -t -m').readlines()[-1].split()[1:])
-      
+    
     # Memory usage
     print("RAM memory % used:", round((used_memory/total_memory) * 100, 2))
+    end = timer()
+    print('Start TIme:', start)
+    print('End TIme:', end)
+    print(timedelta(seconds=end-start))
     exit()
