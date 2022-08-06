@@ -35,8 +35,8 @@ foo@bar:~$ python3 pg-pong.py
 
 Contributors names and contact info
 
-ex. Usnik Biswas  
-ex. [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
+Usnik Biswas
+Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 ## Version History
 
