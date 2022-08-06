@@ -2,6 +2,8 @@
 import numpy as np
 import pickle as pickle
 import gym
+import psutil
+import os
 
 # hyperparameters
 H = 200 # number of hidden layer neurons
@@ -9,7 +11,7 @@ batch_size = 10 # every how many episodes to do a param update?
 learning_rate = 1e-4
 gamma = 0.99 # discount factor for reward
 decay_rate = 0.99 # decay factor for RMSProp leaky sum of grad^2
-resume = True # resume from previous checkpoint?
+resume = False # resume from previous checkpoint?
 render = False
 
 # model initialization
@@ -68,6 +70,14 @@ xs,hs,dlogps,drs = [],[],[],[]
 running_reward = None
 reward_sum = 0
 episode_number = 0
+
+# edited Code for Win Percentage
+total_posotive_reward = 0
+win_percentage = 0.000
+total_rounds = 1
+# edited Code for Win Percentage - END
+
+
 while True:
   if render: env.render()
 
@@ -90,10 +100,14 @@ while True:
   observation, reward, done, info = env.step(action)
   reward_sum += reward
 
+  
+
   drs.append(reward) # record reward (has to be done after we call step() to get reward for previous action)
 
   if done: # an episode finished
     episode_number += 1
+
+
 
     # stack together all inputs, hidden states, action gradients, and rewards for this episode
     epx = np.vstack(xs)
@@ -122,11 +136,33 @@ while True:
 
     # boring book-keeping
     running_reward = reward_sum if running_reward is None else running_reward * 0.99 + reward_sum * 0.01
-    print('resetting env. episode reward total was %f. running mean: %f' % (reward_sum, running_reward))
+    # edited Code for Win Percentage
+    print('resetting env. episode reward total was %f. running mean: %f. AI Wins: %d, Total Rounds: %d, Win Percentage: %f.' % (reward_sum, running_reward, total_posotive_reward, total_rounds, win_percentage))
+    # edited Code for Win Percentage - END
     if episode_number % 100 == 0: pickle.dump(model, open('save.p', 'wb'))
     reward_sum = 0
     observation = env.reset() # reset env
     prev_x = None
-
+  # edited Code for Win Percentage
+  
+  if (reward > 0):
+    total_posotive_reward += 1
+  win_percentage = (total_posotive_reward/total_rounds)/100
+  # edited Code for Win Percentage - End
   if reward != 0: # Pong has either +1 or -1 reward exactly when game ends.
+    total_rounds += 1
     print(('ep %d: game finished, reward: %f' % (episode_number, reward)) + ('' if reward == -1 else ' !!!!!!!!'))
+    
+  if (running_reward > -8 or win_percentage > 30):
+    load1, load5, load15 = psutil.getloadavg()
+  
+    cpu_usage = (load15/os.cpu_count()) * 100
+      
+    print("The CPU usage is : ", cpu_usage)
+
+    total_memory, used_memory, free_memory = map(
+    int, os.popen('free -t -m').readlines()[-1].split()[1:])
+      
+    # Memory usage
+    print("RAM memory % used:", round((used_memory/total_memory) * 100, 2))
+    exit()
