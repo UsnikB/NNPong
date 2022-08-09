@@ -1,3 +1,9 @@
+# Test 3
+
+N = 1600
+(Other Default Parameter)
+Results -
+
 # NNPong
 
 This is our Final Project for our Big Data Class in Second Semister in Lambton College. In this project we learn about Nural Network and see how the change in the Number of Nurons and learning rate effects rate of learning. We note the time taken for reaching a Treshold value while the execution of the Program.
