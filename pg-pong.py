@@ -30,23 +30,14 @@ def running_mean_to_percentage(mean_val):
     
 
 def load_CPU_RAM():
-  load1, load5, load15 = psutil.getloadavg()
-    
-  cpu_usage = (load15/os.cpu_count()) * 100
-    
   print("The CPU usage is : ", psutil.cpu_percent())
-
-  total_memory, used_memory, free_memory = map(
-  int, os.popen('free -t -m').readlines()[-1].split()[1:])
-    
-  # Memory usage
   print("RAM memory % used:", psutil.virtual_memory().percent)
 
 
 # model initialization
 D = 80 * 80 # input dimensionality: 80x80 grid
 if resume:
-  model = pickle.load(open('Test2.p', 'rb'))
+  model = pickle.load(open('Test1.p', 'rb'))
 else:
   model = {}
   model['W1'] = np.random.randn(H,D) / np.sqrt(D) # "Xavier" initialization
@@ -157,12 +148,12 @@ while True:
     win_percentage = running_mean_to_percentage(running_reward)
     print('resetting env. episode reward total was %f. running mean: %f, win Percentage: %f , elapsed Time = %s' % (reward_sum,  running_reward, win_percentage, current_time - start_time))
     load_CPU_RAM()
-    if episode_number % 100 == 0: pickle.dump(model, open('Test2.p', 'wb'))
+    if episode_number % 100 == 0: pickle.dump(model, open('Test1.p', 'wb'))
     reward_sum = 0
     observation = env.reset() # reset env
     prev_x = None
   
-    if (win_percentage > 30):
+    if (win_percentage > 40):
       exit()
       
   if reward != 0: # Pong has either +1 or -1 reward exactly when game ends.

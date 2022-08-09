@@ -7,9 +7,9 @@ This base program is taken from the user [karpathy](https://gist.github.com/karp
 ## Getting Started
 
 ## Environment used
-* OS: PoP OS(Linux)
-* CPU: 8 Core
-* RAM: 9770 MB
+* OS: Ubuntu OS(Linux)
+* CPU: 4 Core
+* RAM: 7.76 GB
 ![Screenshot](ScreenShots/System_Specification.png)
 
 ### Dependencies 
@@ -28,7 +28,7 @@ foo@bar:~$ pip install -r pip_requirements
 
 * Run the code with the following command
 ```console
-foo@bar:~$ python3 pg-pong.py
+foo@bar:~$ python3 pg-pong.py > Test1Output.txt
 ```
 
 ## Authors
@@ -42,9 +42,7 @@ Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 Link to All Branches
 * [Main](https://github.com/UsnikB/NNPong/tree/main)
-* [Test1-Test](https://github.com/UsnikB/NNPong/tree/Test1-Test)
-* [Test2](https://github.com/UsnikB/NNPong/tree/Test1-Test)
-* [Test3](https://github.com/UsnikB/NNPong/tree/Test1-Test)
+
 
 ## Acknowledgments
 
