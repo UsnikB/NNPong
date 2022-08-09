@@ -1,10 +1,15 @@
 """ Trains an agent with (stochastic) Policy Gradients on Pong. Uses OpenAI Gym. """
+from time import sleep
 import numpy as np
 import pickle as pickle
 import gym
+from datetime import datetime
+import time
+import psutil
+import os
 
 # hyperparameters
-H = 200 # number of hidden layer neurons
+H = 400 # number of hidden layer neurons
 batch_size = 10 # every how many episodes to do a param update?
 learning_rate = 1e-4
 gamma = 0.99 # discount factor for reward
@@ -12,10 +17,36 @@ decay_rate = 0.99 # decay factor for RMSProp leaky sum of grad^2
 resume = False # resume from previous checkpoint?
 render = False
 
+start_time = datetime.now() # For Recording Start Time
+
+# Running mean to Percentage Formula
+def running_mean_to_percentage(mean_val):
+  if mean_val == 0:
+    return('50%')
+  elif(mean_val < 0):
+      return(((mean_val+21)/21)*50)
+  elif(mean_val > 0):
+      return((((mean_val)/21)*50)+50)
+    
+
+def load_CPU_RAM():
+  load1, load5, load15 = psutil.getloadavg()
+    
+  cpu_usage = (load15/os.cpu_count()) * 100
+    
+  print("The CPU usage is : ", psutil.cpu_percent())
+
+  total_memory, used_memory, free_memory = map(
+  int, os.popen('free -t -m').readlines()[-1].split()[1:])
+    
+  # Memory usage
+  print("RAM memory % used:", psutil.virtual_memory().percent)
+
+
 # model initialization
 D = 80 * 80 # input dimensionality: 80x80 grid
 if resume:
-  model = pickle.load(open('save.p', 'rb'))
+  model = pickle.load(open('Test2.p', 'rb'))
 else:
   model = {}
   model['W1'] = np.random.randn(H,D) / np.sqrt(D) # "Xavier" initialization
@@ -122,11 +153,17 @@ while True:
 
     # boring book-keeping
     running_reward = reward_sum if running_reward is None else running_reward * 0.99 + reward_sum * 0.01
-    print('resetting env. episode reward total was %f. running mean: %f' % (reward_sum, running_reward))
-    if episode_number % 100 == 0: pickle.dump(model, open('save.p', 'wb'))
+    current_time  = datetime.now()
+    win_percentage = running_mean_to_percentage(running_reward)
+    print('resetting env. episode reward total was %f. running mean: %f, win Percentage: %f , elapsed Time = %s' % (reward_sum,  running_reward, win_percentage, current_time - start_time))
+    load_CPU_RAM()
+    if episode_number % 100 == 0: pickle.dump(model, open('Test2.p', 'wb'))
     reward_sum = 0
     observation = env.reset() # reset env
     prev_x = None
-
+  
+    if (win_percentage > 30):
+      exit()
+      
   if reward != 0: # Pong has either +1 or -1 reward exactly when game ends.
     print(('ep %d: game finished, reward: %f' % (episode_number, reward)) + ('' if reward == -1 else ' !!!!!!!!'))
