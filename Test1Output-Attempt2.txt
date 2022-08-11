@@ -1,0 +1,3718 @@
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: 1.000000 !!!!!!!!
+ep 0: game finished, reward: -1.000000
+ep 0: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -11.000000, win Percentage: 23.809524 , elapsed Time = 0:00:06.363645
+The CPU usage is :  96.5
+RAM memory % used: 12.3
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: 1.000000 !!!!!!!!
+ep 1: game finished, reward: -1.000000
+ep 1: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.040000, win Percentage: 23.714286 , elapsed Time = 0:00:12.672132
+The CPU usage is :  98.2
+RAM memory % used: 12.9
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: 1.000000 !!!!!!!!
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: 1.000000 !!!!!!!!
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: 1.000000 !!!!!!!!
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: 1.000000 !!!!!!!!
+ep 2: game finished, reward: 1.000000 !!!!!!!!
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+ep 2: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -11.089600, win Percentage: 23.596190 , elapsed Time = 0:00:17.390642
+The CPU usage is :  98.9
+RAM memory % used: 12.7
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: -1.000000
+ep 3: game finished, reward: 1.000000 !!!!!!!!
+ep 3: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -11.078704, win Percentage: 23.622133 , elapsed Time = 0:00:21.538852
+The CPU usage is :  100.0
+RAM memory % used: 12.7
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: 1.000000 !!!!!!!!
+ep 4: game finished, reward: -1.000000
+ep 4: game finished, reward: -1.000000
+resetting env. episode reward total was -9.000000. running mean: -11.057917, win Percentage: 23.671626 , elapsed Time = 0:00:25.979301
+The CPU usage is :  99.1
+RAM memory % used: 13.6
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: 1.000000 !!!!!!!!
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: 1.000000 !!!!!!!!
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: 1.000000 !!!!!!!!
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: 1.000000 !!!!!!!!
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+ep 5: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -11.117338, win Percentage: 23.530148 , elapsed Time = 0:00:29.803242
+The CPU usage is :  100.0
+RAM memory % used: 11.7
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: 1.000000 !!!!!!!!
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: 1.000000 !!!!!!!!
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: 1.000000 !!!!!!!!
+ep 6: game finished, reward: 1.000000 !!!!!!!!
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+ep 6: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -11.176164, win Percentage: 23.390085 , elapsed Time = 0:00:33.736305
+The CPU usage is :  99.8
+RAM memory % used: 13.0
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: -1.000000
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: 1.000000 !!!!!!!!
+ep 7: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -11.204403, win Percentage: 23.322851 , elapsed Time = 0:00:38.933905
+The CPU usage is :  99.9
+RAM memory % used: 12.9
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: -1.000000
+ep 8: game finished, reward: 1.000000 !!!!!!!!
+ep 8: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -11.192359, win Percentage: 23.351527 , elapsed Time = 0:00:43.876093
+The CPU usage is :  99.4
+RAM memory % used: 13.0
+ep 9: game finished, reward: 1.000000 !!!!!!!!
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: 1.000000 !!!!!!!!
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: 1.000000 !!!!!!!!
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+ep 9: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -11.260435, win Percentage: 23.189440 , elapsed Time = 0:00:47.298594
+The CPU usage is :  100.0
+RAM memory % used: 12.0
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: 1.000000 !!!!!!!!
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+ep 10: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -11.267831, win Percentage: 23.171831 , elapsed Time = 0:00:51.793548
+The CPU usage is :  97.9
+RAM memory % used: 12.2
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: 1.000000 !!!!!!!!
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: 1.000000 !!!!!!!!
+ep 11: game finished, reward: 1.000000 !!!!!!!!
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: 1.000000 !!!!!!!!
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+ep 11: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -11.325152, win Percentage: 23.035351 , elapsed Time = 0:00:56.997765
+The CPU usage is :  99.0
+RAM memory % used: 12.3
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: -1.000000
+ep 12: game finished, reward: 1.000000 !!!!!!!!
+ep 12: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.361901, win Percentage: 22.947855 , elapsed Time = 0:01:03.628327
+The CPU usage is :  99.6
+RAM memory % used: 14.0
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: 1.000000 !!!!!!!!
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: 1.000000 !!!!!!!!
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: 1.000000 !!!!!!!!
+ep 13: game finished, reward: -1.000000
+ep 13: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -11.428282, win Percentage: 22.789805 , elapsed Time = 0:01:08.985281
+The CPU usage is :  100.0
+RAM memory % used: 12.4
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: 1.000000 !!!!!!!!
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: 1.000000 !!!!!!!!
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: 1.000000 !!!!!!!!
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+ep 14: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -11.493999, win Percentage: 22.633335 , elapsed Time = 0:01:13.526738
+The CPU usage is :  99.7
+RAM memory % used: 12.8
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: 1.000000 !!!!!!!!
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+ep 15: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -11.509059, win Percentage: 22.597478 , elapsed Time = 0:01:17.948323
+The CPU usage is :  99.5
+RAM memory % used: 12.8
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: 1.000000 !!!!!!!!
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+ep 16: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -11.533969, win Percentage: 22.538170 , elapsed Time = 0:01:22.230070
+The CPU usage is :  100.0
+RAM memory % used: 13.0
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: 1.000000 !!!!!!!!
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: 1.000000 !!!!!!!!
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: 1.000000 !!!!!!!!
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: 1.000000 !!!!!!!!
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+ep 17: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -11.588629, win Percentage: 22.408026 , elapsed Time = 0:01:25.655831
+The CPU usage is :  100.0
+RAM memory % used: 11.8
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: 1.000000 !!!!!!!!
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+ep 18: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.622743, win Percentage: 22.326803 , elapsed Time = 0:01:29.951412
+The CPU usage is :  97.7
+RAM memory % used: 12.7
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: 1.000000 !!!!!!!!
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+ep 19: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.656515, win Percentage: 22.246392 , elapsed Time = 0:01:34.823017
+The CPU usage is :  98.6
+RAM memory % used: 13.2
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: 1.000000 !!!!!!!!
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: 1.000000 !!!!!!!!
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: 1.000000 !!!!!!!!
+ep 20: game finished, reward: 1.000000 !!!!!!!!
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: 1.000000 !!!!!!!!
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+ep 20: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -11.699950, win Percentage: 22.142976 , elapsed Time = 0:01:38.855307
+The CPU usage is :  99.9
+RAM memory % used: 12.6
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: 1.000000 !!!!!!!!
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+ep 21: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -11.712951, win Percentage: 22.112023 , elapsed Time = 0:01:44.271017
+The CPU usage is :  99.9
+RAM memory % used: 13.2
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: 1.000000 !!!!!!!!
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+ep 22: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -11.705821, win Percentage: 22.128998 , elapsed Time = 0:01:49.792056
+The CPU usage is :  98.2
+RAM memory % used: 13.0
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: 1.000000 !!!!!!!!
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: 1.000000 !!!!!!!!
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: 1.000000 !!!!!!!!
+ep 23: game finished, reward: -1.000000
+ep 23: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -11.768763, win Percentage: 21.979136 , elapsed Time = 0:01:54.077671
+The CPU usage is :  98.8
+RAM memory % used: 12.8
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: 1.000000 !!!!!!!!
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+ep 24: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -11.781075, win Percentage: 21.949821 , elapsed Time = 0:01:59.712165
+The CPU usage is :  97.2
+RAM memory % used: 13.8
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: 1.000000 !!!!!!!!
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+ep 25: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.813264, win Percentage: 21.873180 , elapsed Time = 0:02:06.198881
+The CPU usage is :  98.8
+RAM memory % used: 13.9
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: 1.000000 !!!!!!!!
+ep 26: game finished, reward: -1.000000
+ep 26: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -11.795132, win Percentage: 21.916353 , elapsed Time = 0:02:11.205855
+The CPU usage is :  99.8
+RAM memory % used: 13.1
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: 1.000000 !!!!!!!!
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: 1.000000 !!!!!!!!
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: 1.000000 !!!!!!!!
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: 1.000000 !!!!!!!!
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+ep 27: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -11.847180, win Percentage: 21.792428 , elapsed Time = 0:02:15.593474
+The CPU usage is :  100.0
+RAM memory % used: 12.8
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: 1.000000 !!!!!!!!
+ep 28: game finished, reward: -1.000000
+ep 28: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -11.868709, win Percentage: 21.741170 , elapsed Time = 0:02:20.850482
+The CPU usage is :  99.9
+RAM memory % used: 13.6
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: -1.000000
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: 1.000000 !!!!!!!!
+ep 29: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -11.890022, win Percentage: 21.690425 , elapsed Time = 0:02:25.849275
+The CPU usage is :  99.9
+RAM memory % used: 13.9
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: 1.000000 !!!!!!!!
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: 1.000000 !!!!!!!!
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+ep 30: game finished, reward: -1.000000
+resetting env. episode reward total was -19.000000. running mean: -11.961121, win Percentage: 21.521140 , elapsed Time = 0:02:29.077089
+The CPU usage is :  99.8
+RAM memory % used: 12.2
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: 1.000000 !!!!!!!!
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+ep 31: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -11.991510, win Percentage: 21.448785 , elapsed Time = 0:02:33.999699
+The CPU usage is :  98.7
+RAM memory % used: 12.9
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+ep 32: game finished, reward: 1.000000 !!!!!!!!
+ep 32: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -11.991595, win Percentage: 21.448583 , elapsed Time = 0:02:39.165231
+The CPU usage is :  98.7
+RAM memory % used: 12.9
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: 1.000000 !!!!!!!!
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+ep 33: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.021679, win Percentage: 21.376955 , elapsed Time = 0:02:43.610805
+The CPU usage is :  99.1
+RAM memory % used: 12.9
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: 1.000000 !!!!!!!!
+ep 34: game finished, reward: 1.000000 !!!!!!!!
+ep 34: game finished, reward: 1.000000 !!!!!!!!
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: 1.000000 !!!!!!!!
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: 1.000000 !!!!!!!!
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+ep 34: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.061462, win Percentage: 21.282233 , elapsed Time = 0:02:48.480997
+The CPU usage is :  99.1
+RAM memory % used: 13.4
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: 1.000000 !!!!!!!!
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: 1.000000 !!!!!!!!
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: -1.000000
+ep 35: game finished, reward: 1.000000 !!!!!!!!
+ep 35: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -12.120848, win Percentage: 21.140839 , elapsed Time = 0:02:52.481760
+The CPU usage is :  98.0
+RAM memory % used: 12.5
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: -1.000000
+ep 36: game finished, reward: 1.000000 !!!!!!!!
+ep 36: game finished, reward: -1.000000
+resetting env. episode reward total was -7.000000. running mean: -12.069639, win Percentage: 21.262764 , elapsed Time = 0:03:00.634681
+The CPU usage is :  97.9
+RAM memory % used: 15.1
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: -1.000000
+ep 37: game finished, reward: 1.000000 !!!!!!!!
+ep 37: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.078943, win Percentage: 21.240612 , elapsed Time = 0:03:05.547805
+The CPU usage is :  98.0
+RAM memory % used: 13.1
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: 1.000000 !!!!!!!!
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: 1.000000 !!!!!!!!
+ep 38: game finished, reward: 1.000000 !!!!!!!!
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: 1.000000 !!!!!!!!
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: -1.000000
+ep 38: game finished, reward: 1.000000 !!!!!!!!
+ep 38: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.118153, win Percentage: 21.147254 , elapsed Time = 0:03:11.444944
+The CPU usage is :  98.4
+RAM memory % used: 13.2
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: 1.000000 !!!!!!!!
+ep 39: game finished, reward: -1.000000
+ep 39: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.146972, win Percentage: 21.078638 , elapsed Time = 0:03:17.831227
+The CPU usage is :  98.9
+RAM memory % used: 13.7
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: 1.000000 !!!!!!!!
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+ep 40: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.175502, win Percentage: 21.010709 , elapsed Time = 0:03:24.782616
+The CPU usage is :  98.4
+RAM memory % used: 14.0
+ep 41: game finished, reward: 1.000000 !!!!!!!!
+ep 41: game finished, reward: 1.000000 !!!!!!!!
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: 1.000000 !!!!!!!!
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: 1.000000 !!!!!!!!
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+ep 41: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.223747, win Percentage: 20.895840 , elapsed Time = 0:03:29.570810
+The CPU usage is :  99.3
+RAM memory % used: 13.2
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+ep 42: game finished, reward: -1.000000
+resetting env. episode reward total was -21.000000. running mean: -12.311510, win Percentage: 20.686882 , elapsed Time = 0:03:33.846724
+The CPU usage is :  99.1
+RAM memory % used: 13.0
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: -1.000000
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: 1.000000 !!!!!!!!
+ep 43: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.328395, win Percentage: 20.646680 , elapsed Time = 0:03:40.415764
+The CPU usage is :  97.6
+RAM memory % used: 14.0
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: 1.000000 !!!!!!!!
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+ep 44: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.335111, win Percentage: 20.630689 , elapsed Time = 0:03:48.242227
+The CPU usage is :  98.8
+RAM memory % used: 14.1
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: 1.000000 !!!!!!!!
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: 1.000000 !!!!!!!!
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+ep 45: game finished, reward: -1.000000
+resetting env. episode reward total was -19.000000. running mean: -12.401759, win Percentage: 20.472001 , elapsed Time = 0:03:53.669987
+The CPU usage is :  99.0
+RAM memory % used: 13.2
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: 1.000000 !!!!!!!!
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+ep 46: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -12.387742, win Percentage: 20.505376 , elapsed Time = 0:04:01.331634
+The CPU usage is :  97.1
+RAM memory % used: 14.5
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: 1.000000 !!!!!!!!
+ep 47: game finished, reward: -1.000000
+ep 47: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -12.373864, win Percentage: 20.538418 , elapsed Time = 0:04:08.062169
+The CPU usage is :  97.7
+RAM memory % used: 13.3
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+ep 48: game finished, reward: 1.000000 !!!!!!!!
+ep 48: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.390126, win Percentage: 20.499700 , elapsed Time = 0:04:13.789352
+The CPU usage is :  99.3
+RAM memory % used: 13.2
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: 1.000000 !!!!!!!!
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+ep 49: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.416225, win Percentage: 20.437561 , elapsed Time = 0:04:19.125375
+The CPU usage is :  100.0
+RAM memory % used: 13.1
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: 1.000000 !!!!!!!!
+ep 50: game finished, reward: 1.000000 !!!!!!!!
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: 1.000000 !!!!!!!!
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+ep 50: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -12.472062, win Percentage: 20.304614 , elapsed Time = 0:04:24.828185
+The CPU usage is :  99.3
+RAM memory % used: 13.1
+ep 51: game finished, reward: 1.000000 !!!!!!!!
+ep 51: game finished, reward: 1.000000 !!!!!!!!
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: 1.000000 !!!!!!!!
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: 1.000000 !!!!!!!!
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+ep 51: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.517342, win Percentage: 20.196805 , elapsed Time = 0:04:30.831919
+The CPU usage is :  98.3
+RAM memory % used: 13.2
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: -1.000000
+ep 52: game finished, reward: 1.000000 !!!!!!!!
+ep 52: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -12.512168, win Percentage: 20.209123 , elapsed Time = 0:04:36.227870
+The CPU usage is :  99.0
+RAM memory % used: 13.1
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: 1.000000 !!!!!!!!
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+ep 53: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.527047, win Percentage: 20.173699 , elapsed Time = 0:04:43.742516
+The CPU usage is :  98.3
+RAM memory % used: 14.5
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: 1.000000 !!!!!!!!
+ep 54: game finished, reward: -1.000000
+ep 54: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.541776, win Percentage: 20.138628 , elapsed Time = 0:04:47.973258
+The CPU usage is :  99.6
+RAM memory % used: 12.8
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: 1.000000 !!!!!!!!
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: 1.000000 !!!!!!!!
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: 1.000000 !!!!!!!!
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: 1.000000 !!!!!!!!
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: 1.000000 !!!!!!!!
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+ep 55: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.576358, win Percentage: 20.056290 , elapsed Time = 0:04:52.886630
+The CPU usage is :  100.0
+RAM memory % used: 13.2
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: 1.000000 !!!!!!!!
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+ep 56: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.600595, win Percentage: 19.998584 , elapsed Time = 0:04:58.608583
+The CPU usage is :  98.7
+RAM memory % used: 13.3
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: 1.000000 !!!!!!!!
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+ep 57: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.604589, win Percentage: 19.989074 , elapsed Time = 0:05:05.337996
+The CPU usage is :  98.9
+RAM memory % used: 13.8
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: 1.000000 !!!!!!!!
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: 1.000000 !!!!!!!!
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: 1.000000 !!!!!!!!
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: 1.000000 !!!!!!!!
+ep 58: game finished, reward: -1.000000
+ep 58: game finished, reward: 1.000000 !!!!!!!!
+ep 58: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.638543, win Percentage: 19.908231 , elapsed Time = 0:05:09.697352
+The CPU usage is :  99.8
+RAM memory % used: 12.7
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: 1.000000 !!!!!!!!
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: 1.000000 !!!!!!!!
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: 1.000000 !!!!!!!!
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: 1.000000 !!!!!!!!
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+ep 59: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.682158, win Percentage: 19.804387 , elapsed Time = 0:05:14.906633
+The CPU usage is :  100.0
+RAM memory % used: 13.2
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: -1.000000
+ep 60: game finished, reward: 1.000000 !!!!!!!!
+ep 60: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -12.665336, win Percentage: 19.844438 , elapsed Time = 0:05:21.604169
+The CPU usage is :  98.1
+RAM memory % used: 14.0
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+ep 61: game finished, reward: 1.000000 !!!!!!!!
+ep 61: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.688683, win Percentage: 19.788851 , elapsed Time = 0:05:27.418397
+The CPU usage is :  98.8
+RAM memory % used: 13.6
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: 1.000000 !!!!!!!!
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: 1.000000 !!!!!!!!
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: 1.000000 !!!!!!!!
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: 1.000000 !!!!!!!!
+ep 62: game finished, reward: -1.000000
+ep 62: game finished, reward: 1.000000 !!!!!!!!
+ep 62: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.721796, win Percentage: 19.710010 , elapsed Time = 0:05:31.570749
+The CPU usage is :  98.4
+RAM memory % used: 12.8
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: 1.000000 !!!!!!!!
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+ep 63: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.744578, win Percentage: 19.655767 , elapsed Time = 0:05:36.981654
+The CPU usage is :  100.0
+RAM memory % used: 13.4
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: 1.000000 !!!!!!!!
+ep 64: game finished, reward: -1.000000
+resetting env. episode reward total was -8.000000. running mean: -12.697132, win Percentage: 19.768733 , elapsed Time = 0:05:43.393707
+The CPU usage is :  97.3
+RAM memory % used: 13.6
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: 1.000000 !!!!!!!!
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: 1.000000 !!!!!!!!
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: 1.000000 !!!!!!!!
+ep 65: game finished, reward: 1.000000 !!!!!!!!
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: -1.000000
+ep 65: game finished, reward: 1.000000 !!!!!!!!
+ep 65: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.730161, win Percentage: 19.690094 , elapsed Time = 0:05:48.599980
+The CPU usage is :  99.3
+RAM memory % used: 13.3
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+ep 66: game finished, reward: 1.000000 !!!!!!!!
+ep 66: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.752859, win Percentage: 19.636050 , elapsed Time = 0:05:55.782931
+The CPU usage is :  99.0
+RAM memory % used: 13.6
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: 1.000000 !!!!!!!!
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+ep 67: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.775331, win Percentage: 19.582546 , elapsed Time = 0:06:02.205444
+The CPU usage is :  98.9
+RAM memory % used: 13.1
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: 1.000000 !!!!!!!!
+ep 68: game finished, reward: -1.000000
+ep 68: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.797577, win Percentage: 19.529578 , elapsed Time = 0:06:07.808041
+The CPU usage is :  97.6
+RAM memory % used: 13.1
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: 1.000000 !!!!!!!!
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+ep 69: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.809601, win Percentage: 19.500949 , elapsed Time = 0:06:14.545772
+The CPU usage is :  99.1
+RAM memory % used: 13.9
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: -1.000000
+ep 70: game finished, reward: 1.000000 !!!!!!!!
+ep 70: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.811505, win Percentage: 19.496416 , elapsed Time = 0:06:20.131406
+The CPU usage is :  99.4
+RAM memory % used: 12.9
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: 1.000000 !!!!!!!!
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+ep 71: game finished, reward: -1.000000
+resetting env. episode reward total was -7.000000. running mean: -12.753390, win Percentage: 19.634785 , elapsed Time = 0:06:27.208042
+The CPU usage is :  99.8
+RAM memory % used: 14.4
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: 1.000000 !!!!!!!!
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: 1.000000 !!!!!!!!
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: 1.000000 !!!!!!!!
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: -1.000000
+ep 72: game finished, reward: 1.000000 !!!!!!!!
+ep 72: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.795856, win Percentage: 19.533675 , elapsed Time = 0:06:31.674404
+The CPU usage is :  100.0
+RAM memory % used: 12.4
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: 1.000000 !!!!!!!!
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+ep 73: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.817898, win Percentage: 19.481196 , elapsed Time = 0:06:36.774313
+The CPU usage is :  100.0
+RAM memory % used: 12.7
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: 1.000000 !!!!!!!!
+ep 74: game finished, reward: -1.000000
+ep 74: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -12.789719, win Percentage: 19.548288 , elapsed Time = 0:06:42.697231
+The CPU usage is :  99.0
+RAM memory % used: 12.9
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: -1.000000
+ep 75: game finished, reward: 1.000000 !!!!!!!!
+ep 75: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -12.761822, win Percentage: 19.614710 , elapsed Time = 0:06:49.824371
+The CPU usage is :  98.7
+RAM memory % used: 14.0
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: 1.000000 !!!!!!!!
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+ep 76: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.784204, win Percentage: 19.561420 , elapsed Time = 0:06:55.141475
+The CPU usage is :  99.8
+RAM memory % used: 12.3
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: 1.000000 !!!!!!!!
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: 1.000000 !!!!!!!!
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: 1.000000 !!!!!!!!
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: 1.000000 !!!!!!!!
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+ep 77: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.826361, win Percentage: 19.461044 , elapsed Time = 0:06:59.445082
+The CPU usage is :  100.0
+RAM memory % used: 12.2
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: 1.000000 !!!!!!!!
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+ep 78: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.838098, win Percentage: 19.433100 , elapsed Time = 0:07:05.780116
+The CPU usage is :  99.8
+RAM memory % used: 13.4
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: 1.000000 !!!!!!!!
+ep 79: game finished, reward: -1.000000
+ep 79: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.859717, win Percentage: 19.381626 , elapsed Time = 0:07:10.823565
+The CPU usage is :  99.7
+RAM memory % used: 12.8
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: 1.000000 !!!!!!!!
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+ep 80: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.881120, win Percentage: 19.330667 , elapsed Time = 0:07:16.029961
+The CPU usage is :  99.1
+RAM memory % used: 12.9
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: 1.000000 !!!!!!!!
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: 1.000000 !!!!!!!!
+ep 81: game finished, reward: 1.000000 !!!!!!!!
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: 1.000000 !!!!!!!!
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: 1.000000 !!!!!!!!
+ep 81: game finished, reward: -1.000000
+ep 81: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.912309, win Percentage: 19.256408 , elapsed Time = 0:07:20.963110
+The CPU usage is :  99.7
+RAM memory % used: 12.9
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: 1.000000 !!!!!!!!
+ep 82: game finished, reward: -1.000000
+ep 82: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -12.893185, win Percentage: 19.301939 , elapsed Time = 0:07:28.251351
+The CPU usage is :  99.6
+RAM memory % used: 14.4
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: 1.000000 !!!!!!!!
+ep 83: game finished, reward: -1.000000
+ep 83: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -12.864254, win Percentage: 19.370825 , elapsed Time = 0:07:34.549353
+The CPU usage is :  97.1
+RAM memory % used: 13.1
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: 1.000000 !!!!!!!!
+ep 84: game finished, reward: -1.000000
+ep 84: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -12.835611, win Percentage: 19.439021 , elapsed Time = 0:07:43.095629
+The CPU usage is :  98.5
+RAM memory % used: 14.9
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: 1.000000 !!!!!!!!
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+ep 85: game finished, reward: -1.000000
+resetting env. episode reward total was -14.000000. running mean: -12.847255, win Percentage: 19.411298 , elapsed Time = 0:07:50.633033
+The CPU usage is :  95.7
+RAM memory % used: 14.1
+ep 86: game finished, reward: 1.000000 !!!!!!!!
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: 1.000000 !!!!!!!!
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: 1.000000 !!!!!!!!
+ep 86: game finished, reward: 1.000000 !!!!!!!!
+ep 86: game finished, reward: 1.000000 !!!!!!!!
+ep 86: game finished, reward: -1.000000
+ep 86: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.878782, win Percentage: 19.336232 , elapsed Time = 0:07:55.488751
+The CPU usage is :  100.0
+RAM memory % used: 12.5
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+ep 87: game finished, reward: 1.000000 !!!!!!!!
+ep 87: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -12.859995, win Percentage: 19.380965 , elapsed Time = 0:08:01.639565
+The CPU usage is :  98.9
+RAM memory % used: 13.2
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: 1.000000 !!!!!!!!
+ep 88: game finished, reward: -1.000000
+ep 88: game finished, reward: -1.000000
+resetting env. episode reward total was -9.000000. running mean: -12.821395, win Percentage: 19.472870 , elapsed Time = 0:08:08.108279
+The CPU usage is :  98.8
+RAM memory % used: 13.8
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: 1.000000 !!!!!!!!
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+ep 89: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.823181, win Percentage: 19.468617 , elapsed Time = 0:08:13.889284
+The CPU usage is :  100.0
+RAM memory % used: 13.6
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: 1.000000 !!!!!!!!
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+ep 90: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -12.794949, win Percentage: 19.535836 , elapsed Time = 0:08:19.105535
+The CPU usage is :  100.0
+RAM memory % used: 12.7
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: 1.000000 !!!!!!!!
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: 1.000000 !!!!!!!!
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: 1.000000 !!!!!!!!
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: 1.000000 !!!!!!!!
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: 1.000000 !!!!!!!!
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+ep 91: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -12.826999, win Percentage: 19.459525 , elapsed Time = 0:08:24.105061
+The CPU usage is :  100.0
+RAM memory % used: 12.9
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: 1.000000 !!!!!!!!
+ep 92: game finished, reward: -1.000000
+ep 92: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.848729, win Percentage: 19.407787 , elapsed Time = 0:08:28.741540
+The CPU usage is :  100.0
+RAM memory % used: 12.6
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: 1.000000 !!!!!!!!
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: 1.000000 !!!!!!!!
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: 1.000000 !!!!!!!!
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: 1.000000 !!!!!!!!
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+ep 93: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.890242, win Percentage: 19.308947 , elapsed Time = 0:08:34.564499
+The CPU usage is :  100.0
+RAM memory % used: 12.7
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: 1.000000 !!!!!!!!
+ep 94: game finished, reward: -1.000000
+ep 94: game finished, reward: -1.000000
+resetting env. episode reward total was -8.000000. running mean: -12.841340, win Percentage: 19.425382 , elapsed Time = 0:08:42.576151
+The CPU usage is :  97.8
+RAM memory % used: 15.0
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: 1.000000 !!!!!!!!
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+ep 95: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.862926, win Percentage: 19.373985 , elapsed Time = 0:08:47.894901
+The CPU usage is :  99.4
+RAM memory % used: 12.9
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: 1.000000 !!!!!!!!
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+ep 96: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.884297, win Percentage: 19.323102 , elapsed Time = 0:08:53.348315
+The CPU usage is :  100.0
+RAM memory % used: 12.9
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: 1.000000 !!!!!!!!
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: 1.000000 !!!!!!!!
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: 1.000000 !!!!!!!!
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: 1.000000 !!!!!!!!
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+ep 97: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.925454, win Percentage: 19.225109 , elapsed Time = 0:08:58.727684
+The CPU usage is :  100.0
+RAM memory % used: 13.1
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: 1.000000 !!!!!!!!
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: 1.000000 !!!!!!!!
+ep 98: game finished, reward: 1.000000 !!!!!!!!
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: 1.000000 !!!!!!!!
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+ep 98: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -12.966199, win Percentage: 19.128096 , elapsed Time = 0:09:03.997422
+The CPU usage is :  100.0
+RAM memory % used: 12.9
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: 1.000000 !!!!!!!!
+ep 99: game finished, reward: -1.000000
+ep 99: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -12.966537, win Percentage: 19.127292 , elapsed Time = 0:09:09.728011
+The CPU usage is :  99.5
+RAM memory % used: 13.2
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: 1.000000 !!!!!!!!
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+ep 100: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -12.986872, win Percentage: 19.078876 , elapsed Time = 0:09:15.209194
+The CPU usage is :  98.9
+RAM memory % used: 13.2
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: 1.000000 !!!!!!!!
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: 1.000000 !!!!!!!!
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: 1.000000 !!!!!!!!
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: 1.000000 !!!!!!!!
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: 1.000000 !!!!!!!!
+ep 101: game finished, reward: -1.000000
+ep 101: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -13.017003, win Percentage: 19.007135 , elapsed Time = 0:09:21.430775
+The CPU usage is :  99.5
+RAM memory % used: 13.4
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: 1.000000 !!!!!!!!
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+ep 102: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -13.036833, win Percentage: 18.959921 , elapsed Time = 0:09:27.304948
+The CPU usage is :  99.9
+RAM memory % used: 13.5
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: 1.000000 !!!!!!!!
+ep 103: game finished, reward: -1.000000
+ep 103: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -13.056465, win Percentage: 18.913179 , elapsed Time = 0:09:33.581180
+The CPU usage is :  99.8
+RAM memory % used: 13.8
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+ep 104: game finished, reward: 1.000000 !!!!!!!!
+ep 104: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -13.045900, win Percentage: 18.938332 , elapsed Time = 0:09:39.502163
+The CPU usage is :  99.9
+RAM memory % used: 13.6
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: 1.000000 !!!!!!!!
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: 1.000000 !!!!!!!!
+ep 105: game finished, reward: 1.000000 !!!!!!!!
+ep 105: game finished, reward: 1.000000 !!!!!!!!
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: 1.000000 !!!!!!!!
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+ep 105: game finished, reward: -1.000000
+resetting env. episode reward total was -16.000000. running mean: -13.075441, win Percentage: 18.867997 , elapsed Time = 0:09:44.417783
+The CPU usage is :  99.8
+RAM memory % used: 12.6
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: 1.000000 !!!!!!!!
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+ep 106: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -13.064687, win Percentage: 18.893602 , elapsed Time = 0:09:50.987585
+The CPU usage is :  99.2
+RAM memory % used: 13.0
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: 1.000000 !!!!!!!!
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: 1.000000 !!!!!!!!
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: -1.000000
+ep 107: game finished, reward: 1.000000 !!!!!!!!
+ep 107: game finished, reward: -1.000000
+resetting env. episode reward total was -18.000000. running mean: -13.114040, win Percentage: 18.776095 , elapsed Time = 0:09:56.411335
+The CPU usage is :  99.6
+RAM memory % used: 12.9
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: 1.000000 !!!!!!!!
+ep 108: game finished, reward: -1.000000
+ep 108: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -13.112900, win Percentage: 18.778810 , elapsed Time = 0:10:01.833766
+The CPU usage is :  100.0
+RAM memory % used: 13.0
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: 1.000000 !!!!!!!!
+ep 109: game finished, reward: -1.000000
+ep 109: game finished, reward: -1.000000
+resetting env. episode reward total was -10.000000. running mean: -13.081771, win Percentage: 18.852927 , elapsed Time = 0:10:08.671474
+The CPU usage is :  99.6
+RAM memory % used: 14.1
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: 1.000000 !!!!!!!!
+ep 110: game finished, reward: -1.000000
+ep 110: game finished, reward: -1.000000
+resetting env. episode reward total was -13.000000. running mean: -13.080953, win Percentage: 18.854874 , elapsed Time = 0:10:14.449919
+The CPU usage is :  100.0
+RAM memory % used: 13.7
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: -1.000000
+ep 111: game finished, reward: 1.000000 !!!!!!!!
+ep 111: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -13.070143, win Percentage: 18.880611 , elapsed Time = 0:10:20.657633
+The CPU usage is :  100.0
+RAM memory % used: 14.1
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: 1.000000 !!!!!!!!
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: 1.000000 !!!!!!!!
+ep 112: game finished, reward: 1.000000 !!!!!!!!
+ep 112: game finished, reward: 1.000000 !!!!!!!!
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+ep 112: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -13.109442, win Percentage: 18.787043 , elapsed Time = 0:10:26.698765
+The CPU usage is :  98.8
+RAM memory % used: 13.5
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: 1.000000 !!!!!!!!
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+ep 113: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -13.128348, win Percentage: 18.742030 , elapsed Time = 0:10:32.973119
+The CPU usage is :  99.6
+RAM memory % used: 13.7
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: -1.000000
+ep 114: game finished, reward: 1.000000 !!!!!!!!
+ep 114: game finished, reward: -1.000000
+resetting env. episode reward total was -12.000000. running mean: -13.117064, win Percentage: 18.768895 , elapsed Time = 0:10:39.942347
+The CPU usage is :  98.7
+RAM memory % used: 13.7
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: 1.000000 !!!!!!!!
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: 1.000000 !!!!!!!!
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: 1.000000 !!!!!!!!
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: -1.000000
+ep 115: game finished, reward: 1.000000 !!!!!!!!
+ep 115: game finished, reward: -1.000000
+resetting env. episode reward total was -17.000000. running mean: -13.155893, win Percentage: 18.676444 , elapsed Time = 0:10:45.343564
+The CPU usage is :  99.3
+RAM memory % used: 13.3
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: 1.000000 !!!!!!!!
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+ep 116: game finished, reward: -1.000000
+resetting env. episode reward total was -11.000000. running mean: -13.134335, win Percentage: 18.727775 , elapsed Time = 0:10:53.243639
+The CPU usage is :  98.4
+RAM memory % used: 14.3
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: 1.000000 !!!!!!!!
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: 1.000000 !!!!!!!!
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+ep 117: game finished, reward: -1.000000
+resetting env. episode reward total was -19.000000. running mean: -13.192991, win Percentage: 18.588116 , elapsed Time = 0:10:58.478096
+The CPU usage is :  98.2
+RAM memory % used: 12.5
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: 1.000000 !!!!!!!!
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+ep 118: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -13.211061, win Percentage: 18.545092 , elapsed Time = 0:11:03.952896
+The CPU usage is :  99.1
+RAM memory % used: 12.9
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: -1.000000
+ep 119: game finished, reward: 1.000000 !!!!!!!!
+ep 119: game finished, reward: -1.000000
+resetting env. episode reward total was -15.000000. running mean: -13.228951, win Percentage: 18.502498 , elapsed Time = 0:11:11.212601
+The CPU usage is :  98.9
+RAM memory % used: 14.0
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
+ep 120: game finished, reward: 1.000000 !!!!!!!!
+ep 120: game finished, reward: -1.000000
