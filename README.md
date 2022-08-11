@@ -9,7 +9,7 @@ Time taken, Multiple file entries as the program crashed in between due to issue
 | Test1Output-Attempt3.txt | 0:47:38.581646  	   |  14.3%   |
 | Test1Output-Attempt4.txt | 2:11:09.370910	   |  15.1%   |
 | Test1Output-Attempt5.txt | 1 Day 3:08:23.975879  |  17.2%   |
-
+| __Total Time & Average:__ | __1 Day 15:10:35__   | __14.52%__  |
 # NNPong
 
 This is our Final Project for our Big Data Class in Second Semister in Lambton College. In this project we learn about Nural Network and see how the change in the Number of Nurons and learning rate effects rate of learning. We note the time taken for reaching a Treshold value while the execution of the Program.
