@@ -6,10 +6,11 @@ This base program is taken from the user [karpathy](https://gist.github.com/karp
 
 ## Getting Started
 
-## Environment used
-* OS: PoP OS(Linux)
-* CPU: 8 Core
-* RAM: 9770 MB
+## Environments used
+* 3 Virtual Machines in Linode [Linode-ScreenShot](ScreenShots/Linode-Dashboard.png)
+* OS: Ubuntu OS(Linux)
+* CPU: 4 Core
+* RAM: 7.76 GB
 ![Screenshot](ScreenShots/System_Specification.png)
 
 ### Dependencies 
@@ -28,7 +29,7 @@ foo@bar:~$ pip install -r pip_requirements
 
 * Run the code with the following command
 ```console
-foo@bar:~$ python3 pg-pong.py
+foo@bar:~$ python3 pg-pong.py > Test1Output.txt
 ```
 
 ## Authors
@@ -41,9 +42,14 @@ Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 Link to All Branches
 * [Main](https://github.com/UsnikB/NNPong/tree/main)
-* [Test1-Test](https://github.com/UsnikB/NNPong/tree/Test1-Test)
-* [Test2](https://github.com/UsnikB/NNPong/tree/Test1-Test)
-* [Test3](https://github.com/UsnikB/NNPong/tree/Test1-Test)
+Tests for Number of Nurons
+* [Test-1-N400](https://github.com/UsnikB/NNPong/tree/Test-1-N400)
+* [Test-2-N800](https://github.com/UsnikB/NNPong/tree/Test-2-N800)
+* [Test-3-N1600](https://github.com/UsnikB/NNPong/tree/Test-3-N1600)
+Tests for Learning Rate
+* [Test-1-LR1e-3](https://github.com/UsnikB/NNPong/tree/Test-1-LR1e-3)
+* [Test-2-LR1e-2](https://github.com/UsnikB/NNPong/tree/Test-2-LR1e-2)
+* [Test-3-LR1e-1](https://github.com/UsnikB/NNPong/tree/Test-3-LR1e-1)
 
 ## Acknowledgments
 
