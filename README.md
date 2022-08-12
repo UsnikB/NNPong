@@ -1,7 +1,11 @@
 # Test 1 for Learning Rate
 For this test, We took 
+
 Number of Nuron: 400
+
 Learning Rate - 1e-3
+
+Time Taken for completion - 5:26:50.147241
 
 
 # NNPong
