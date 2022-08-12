@@ -16,6 +16,9 @@ This is our Final Project for our Big Data Class in Second Semister in Lambton C
 
 This base program is taken from the user [karpathy](https://gist.github.com/karpathy) and the Program - [pg-pong.py](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5). After that made modifications nescesary for the requirements
 
+# Test 1 Screenshot
+![Screenshot](ScreenShots/Test1N400Complete.png)
+
 ## Getting Started
 
 ## Environment used
@@ -54,7 +57,6 @@ Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 Link to All Branches
 * [Main](https://github.com/UsnikB/NNPong/tree/main)
-
 
 ## Acknowledgments
 
