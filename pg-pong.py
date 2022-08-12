@@ -14,7 +14,7 @@ batch_size = 10 # every how many episodes to do a param update?
 learning_rate = 1e-3
 gamma = 0.99 # discount factor for reward
 decay_rate = 0.99 # decay factor for RMSProp leaky sum of grad^2
-resume = True # resume from previous checkpoint?
+resume = False # resume from previous checkpoint?
 render = False
 
 start_time = datetime.now() # For Recording Start Time
@@ -37,7 +37,7 @@ def load_CPU_RAM():
 # model initialization
 D = 80 * 80 # input dimensionality: 80x80 grid
 if resume:
-  model = pickle.load(open('Test1.p', 'rb'))
+  model = pickle.load(open('Test-1-LR1e-3.p', 'rb'))
 else:
   model = {}
   model['W1'] = np.random.randn(H,D) / np.sqrt(D) # "Xavier" initialization
@@ -148,7 +148,7 @@ while True:
     win_percentage = running_mean_to_percentage(running_reward)
     print('resetting env. episode reward total was %f. running mean: %f, win Percentage: %f , elapsed Time = %s' % (reward_sum,  running_reward, win_percentage, current_time - start_time))
     load_CPU_RAM()
-    if episode_number % 100 == 0: pickle.dump(model, open('Test1.p', 'wb'))
+    if episode_number % 100 == 0: pickle.dump(model, open('Test-1-LR1e-3.p', 'wb'))
     reward_sum = 0
     observation = env.reset() # reset env
     prev_x = None
