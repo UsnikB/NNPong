@@ -1,9 +1,9 @@
-# Test 2 for Learning Rate
+# Test 3 for Learning Rate
 For the second test, We took 
 
 Number of Nuron: 400
 
-Learning Rate - 1e-2
+Learning Rate - 1e-1
 
 
 # NNPong
