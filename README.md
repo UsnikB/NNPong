@@ -7,7 +7,8 @@ This base program is taken from the user [karpathy](https://gist.github.com/karp
 ## Getting Started
 
 ## Environments used
-* 3 Virtual Machines in Linode [Linode-ScreenShot](ScreenShots/Linode-Dashboard.png)
+* 3 Virtual Machines in Linode 
+![Linode-ScreenShot](ScreenShots/Linode-Dashboard.png)
 * OS: Ubuntu OS(Linux)
 * CPU: 4 Core
 * RAM: 7.76 GB
