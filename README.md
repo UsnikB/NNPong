@@ -7,6 +7,8 @@ Learning Rate - 1e-3
 
 Time Taken for completion - 5:26:50.147241
 
+__Output File__ - [Test-1-LR1e-3Output.txt](./Test-1-LR1e-3Output.txt)
+
 # Test 1 Final Screenshot
 ![Screenshot](ScreenShots/Test1LE1e-3.png)
 
