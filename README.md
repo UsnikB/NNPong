@@ -7,6 +7,9 @@ Learning Rate - 1e-3
 
 Time Taken for completion - 5:26:50.147241
 
+# Test 1 Final Screenshot
+![Screenshot](ScreenShots/Test1LE1e-3.png)
+
 
 # NNPong
 
