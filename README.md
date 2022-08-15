@@ -4,20 +4,24 @@ For this test, We took Number of Nuron: 400
 Time taken, Multiple file entries as the program crashed in between due to issue in my system, I uesd the resume feature to resume from the same mean.
 | File/Run Name            | Time Elapsed          | Ram Usage|
 | -------------------------|:---------------------:| --------:|
-| Test1Output.txt          | 8:52:14.580456        |  12%     |
-| Test1Output-Attempt2.txt | 0:11:11.212601        |  14%     |
-| Test1Output-Attempt3.txt | 0:47:38.581646  	   |  14.3%   |
-| Test1Output-Attempt4.txt | 2:11:09.370910	   |  15.1%   |
-| Test1Output-Attempt5.txt | 1 Day 3:08:23.975879  |  17.2%   |
+| [Test1Output.txt](./Test1Output.txt)          | 8:52:14.580456        |  12%     |
+| [Test1Output-Attempt2.txt](./Test1Output-Attempt2.txt) | 0:11:11.212601        |  14%     |
+| [Test1Output-Attempt3.txt](./Test1Output-Attempt3.txt) | 0:47:38.581646  	   |  14.3%   |
+| [Test1Output-Attempt4.txt](./Test1Output-Attempt4.txt) | 2:11:09.370910	   |  15.1%   |
+| [Test1Output-Attempt5.txt](./Test1Output-Attempt5.txt) | 1 Day 3:08:23.975879  |  17.2%   |
 | __Total Time & Average:__ | __1 Day 15:10:35__   | __14.52%__  |
+
+
+# Test 1 Screenshot
+![Screenshot](ScreenShots/Test1N400Complete.png)
+
 # NNPong
 
 This is our Final Project for our Big Data Class in Second Semister in Lambton College. In this project we learn about Nural Network and see how the change in the Number of Nurons and learning rate effects rate of learning. We note the time taken for reaching a Treshold value while the execution of the Program.
 
 This base program is taken from the user [karpathy](https://gist.github.com/karpathy) and the Program - [pg-pong.py](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5). After that made modifications nescesary for the requirements
 
-# Test 1 Screenshot
-![Screenshot](ScreenShots/Test1N400Complete.png)
+
 
 ## Getting Started
 
