@@ -1,8 +1,21 @@
 # Test 3
 
-N = 1600
-(Other Default Parameter)
-Results -
+For this test, We took Number of Nuron: 1600
+
+Time taken, Multiple file entries as the program crashed in between due to issue in my system, I uesd the resume feature to resume from the same mean.
+| File/Run Name            | Time Elapsed            | Ram Usage|
+| -------------------------|:-----------------------:| --------:|
+| Test3Output.txt          | 11:16:39.484017         |  18.8%   |
+| Test3Output-Attempt2.txt | 2:11:10.473736          |  15.8%   |
+| Test3Output-Attempt3.txt | 0:50:35.735957  	       |  16.6%   |
+| Test3Output-Attempt4.txt | 2 days, 14:18:11.811602 |  15.1%   |
+| Test3Output-Attempt5.txt | 1:19:00.864666          |  20.1%   |
+| Test3Output-Attempt6.txt | 0:56:12.877329          |  24.1%   |
+| Test3Output-Attempt6.txt | 9:06:54.695292          |  22.5%   |
+| __Total Time & Average:__ | __3 Day 15:58:41__   | __19%__ (Avg) |
+
+# Test 3 Final Screenshot
+![Screenshot](ScreenShots/Test3N1600Complete.png)
 
 # NNPong
 
