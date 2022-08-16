@@ -1,8 +1,8 @@
-# Test 1 for Learning Rate
+# Test 2 for Learning Rate
 
 For this test, We took Number of Nuron: 400
 
-Learning Rate - 1e-3
+Learning Rate - 1e-2
 
 Time taken, Multiple file entries as the program crashed in between due to issue in my system, I uesd the resume feature to resume from the same mean.
 | File/Run Name            | Time Elapsed          | Ram Usage|
