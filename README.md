@@ -53,10 +53,16 @@ Contributors names and contact info
 Usnik Biswas
 Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
-## Version History
-
-Link to All Branches
+## Link to All Branches
 * [Main](https://github.com/UsnikB/NNPong/tree/main)
+### Tests for Number of Nurons
+* [Test-1-N400](https://github.com/UsnikB/NNPong/tree/Test-1-N400)
+* [Test-2-N800](https://github.com/UsnikB/NNPong/tree/Test-2-N800)
+* [Test-3-N1600](https://github.com/UsnikB/NNPong/tree/Test-3-N1600)
+### Tests for Learning Rate
+* [Test-1-LR1e-3](https://github.com/UsnikB/NNPong/tree/Test-1-LR1e-3)
+* [Test-2-LR1e-2](https://github.com/UsnikB/NNPong/tree/Test-2-LR1e-2)
+* [Test-3-LR1e-1](https://github.com/UsnikB/NNPong/tree/Test-3-LR1e-1)
 
 
 ## Acknowledgments
