@@ -1,8 +1,17 @@
 # Test 1 for Learning Rate
-For this test, We took 
-Number of Nuron: 400
+
+For this test, We took Number of Nuron: 400
+
 Learning Rate - 1e-3
 
+Time taken, Multiple file entries as the program crashed in between due to issue in my system, I uesd the resume feature to resume from the same mean.
+| File/Run Name            | Time Elapsed          | Ram Usage|
+| -------------------------|:---------------------:| --------:|
+| [Test-2-LR1e-2Output.txt](./Test-2-LR1e-2Output.txt)          | 0:00:35.669751        |  9.7%     |
+| [Test-2-LR1e-2Output-attempt2.txt](./Test-2-LR1e-2Output-attempt2.txt) | 7:07:53.186560        |  14%     |
+| [Test-2-LR1e-2Output-attempt3.txt](./Test-2-LR1e-2Output-attempt3.txt) | 1 day, 17:22:45.532142  	   |  12.0%   |
+| [Test-2-LR1e-2Output-attempt4.txt](./Test-2-LR1e-2Output-attempt4.txt) | 4:58:47.129884	   |  12.0%   |
+| __Total Time & Average:__ | __2 Day 5:25:18__   | __11.92%__  |
 
 # NNPong
 
