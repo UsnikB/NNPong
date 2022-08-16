@@ -5,6 +5,13 @@ Number of Nuron: 400
 
 Learning Rate - 1e-1
 
+Time taken, Multiple file entries as the program crashed in between due to issue in my system, I uesd the resume feature to resume from the same mean.
+
+| File/Run Name            |      Time Elapsed          | Ram Usage |
+| -------------------------|:--------------------------:| -------------------:|
+| [Test-3-LR1e-1Output.txt](./Test-3-LR1e-1Output.txt)  | 7:14:13.114519  |  9.2% |
+| [Test-3-LR1e-1Output-Attempt2.txt](./Test-3-LR1e-1Output-Attempt2.txt) | 1 day, 17:21:07.880746 |  9.3%  |
+| __Total Time & Average:__ | __2 Day 00:35:20__   | __9.25%__  |
 
 # NNPong
 
@@ -50,7 +57,6 @@ Linkedin: [usnik-biswas](https://www.linkedin.com/in/usnik-biswas/)
 
 Link to All Branches
 * [Main](https://github.com/UsnikB/NNPong/tree/main)
-
 
 ## Acknowledgments
 
