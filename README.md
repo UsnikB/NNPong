@@ -21,7 +21,7 @@ This base program is taken from the user [karpathy](https://gist.github.com/karp
 
 ## Getting Started
 
-## Environment used
+### Environment used
 * OS: Ubuntu OS(Linux)
 * CPU: 4 Core
 * RAM: 7.76 GB
